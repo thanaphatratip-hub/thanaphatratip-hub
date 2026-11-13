@@ -3,7 +3,7 @@
 Third-year **Robotics & AI Engineering** student (International Program) at KMITL, Bangkok.
 I work on computer vision and embedded AI, from dataset to running hardware, and I build web apps for real businesses with AI coding tools.
 
-**Looking for an internship, June – August 2027** · computer vision · robotics · embedded AI · software
+**Looking for an internship, May – July 2027** · computer vision · robotics · embedded AI · software
 
 **Featured work**
 - [PPE Detection System](https://github.com/thanaphatratip-hub/ppe-safety-detection): YOLO11 on a Jetson Nano, mAP@50 0.968, team lead
